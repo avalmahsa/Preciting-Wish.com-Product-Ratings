@@ -1,4 +1,4 @@
-# Predicting-Wish.com-Product-Ratings
+# Predicting Wish.com Product Ratings
 - preprocessing and data exploration
 - parameter search
 - pipelining
